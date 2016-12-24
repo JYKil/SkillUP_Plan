@@ -1,3 +1,15 @@
-# 2017년 01월 계획
-1. C# study : 뇌를 자극하는 C# chp.22 -> MVA 
-2. SQL study : Oracle SQL Basic(자사 강의 2개) ->   
+# 2017 Skill-Up Plan
+1. Programing Language study 
+* C#
+* C++
+* C
+* Scala
+
+2. SQL study 
+* LG CNS On-line Lecture
+* Head First SQL
+* SQLD Certificate
+
+3. Data Structure & Algorism Study
+
+4. Machine Learning
