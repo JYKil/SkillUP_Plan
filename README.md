@@ -13,3 +13,5 @@
 3. Data Structure & Algorism Study
 
 4. Machine Learning
+
+5. English
