@@ -16,4 +16,3 @@
 
 5. English
 
-6. Read books
