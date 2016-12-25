@@ -1,4 +1,4 @@
-# 2017 Skill-Up Plan
+# This is my '17 Skill-Up Plan
 1. Programing Language study 
  * C#
  * C++
